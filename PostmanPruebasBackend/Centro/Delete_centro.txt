@@ -1,0 +1,6 @@
+DELETE
+https://misiontic-2021-p12-g2.herokuapp.com/centro/delete/18
+
+
+Nota:
+usar get o tableplus para saber el ID de centros 

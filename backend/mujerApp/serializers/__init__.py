@@ -1,0 +1,3 @@
+from .centroSerializer import CentroSerializer
+from .solicitudSerializer import SolicitudSerializer
+from .userSerializer import UserSerializer

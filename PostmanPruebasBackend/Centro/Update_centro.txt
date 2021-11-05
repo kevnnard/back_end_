@@ -1,0 +1,12 @@
+PUT
+https://misiontic-2021-p12-g2.herokuapp.com/centro/put/15/
+
+{
+    "nombre": "micentro",
+    "direccion": "modificado",
+    "email": "emailmod@gmail.com",
+    "telefono": 333444
+}
+
+Nota:
+poner el ID del centro a modificar

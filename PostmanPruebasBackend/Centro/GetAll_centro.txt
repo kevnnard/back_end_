@@ -1,0 +1,4 @@
+GET
+https://misiontic-2021-p12-g2.herokuapp.com/centro/get/
+
+Nota:

@@ -1,0 +1,15 @@
+POST
+https://misiontic-2021-p12-g2.herokuapp.com/user/
+
+{
+    "cedula": 5,
+    "username": "5usuario",
+    "password": "contraseña",
+    "nombre": "5nombre",
+    "direccion": "4cra_65",
+    "email": "5fjgomezpe@misionTIC.com",
+    "telefono": 431456
+}
+
+Nota:
+cédula no es autoeincremental, cambiar valor si genera error

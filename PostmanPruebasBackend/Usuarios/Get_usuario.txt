@@ -1,0 +1,5 @@
+GET
+https://misiontic-2021-p12-g2.herokuapp.com/user/1
+
+Nota:
+En Authorization, type, seleccionar Bearer Token

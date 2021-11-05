@@ -1,0 +1,12 @@
+POST
+https://misiontic-2021-p12-g2.herokuapp.com/centro/create/
+
+{
+    "nombre": "Casa Rosada",
+    "direccion": "Calle 76 - 32A",
+    "email": "emailfalso@gmail.com",
+    "telefono": 333444
+}
+
+Nota:
+telefono no puede tener mas de 9 numeros

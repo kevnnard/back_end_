@@ -1,0 +1,10 @@
+POST
+https://misiontic-2021-p12-g2.herokuapp.com/login/
+
+{
+    "username": "1nombreUsuario",
+    "password": "contraseña"
+}
+
+Nota:
+si no deja loguear, mirar Tableplus para saber los usarios registrados
